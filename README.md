@@ -24,7 +24,8 @@ I'm using programming to make an impact while having fun. 🕺🏽
 <div display="flex">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue Js"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/-Next%20Js-lightgrey" alt="Next Js"/>
+  <img src="https://img.shields.io/badge/-Typescript-blue" alt="Typescript"/>
 </div>
 
 ### 🤔 I’m looking for help with
