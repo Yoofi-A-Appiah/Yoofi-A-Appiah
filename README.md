@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using JavaScript to make an impact while having fun. 🕺🏽
+I'm using programming to make an impact while having fun. 🕺🏽
 
 **I love working with**
 
