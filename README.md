@@ -26,6 +26,7 @@ I'm using programming to make an impact while having fun. 🕺🏽
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue Js"/>
   <img src="https://img.shields.io/badge/-Next%20Js-lightgrey" alt="Next Js"/>
   <img src="https://img.shields.io/badge/-Typescript-blue" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/-Flutter" alt="Flutter"/>
 </div>
 
 ### 🤔 I’m looking for help with
