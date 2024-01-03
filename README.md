@@ -20,7 +20,7 @@ I'm using programming to make an impact while having fun. 🕺🏽
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker">
   <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=jfrog">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Artifactory-black?style=for-the-badge&logo=jfrog">
   <img alt="Static Badge" src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform">
 </div>
 
