@@ -27,7 +27,7 @@ I'm using programming to make an impact while having fun. 🕺🏽
 ### 🔭 I’m working on
 
 - Building my career.
-- Growing My Blog [the BetaBits](https://polite-bay-0071b4b10.1.azurestaticapps.net/blog)100k/month visitors
+- DevOps 🛠️🔃
 
 ### 🌱 I’m learning
 
